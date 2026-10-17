@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "cc8c56a7086bf9acae65db61",
+  "owner": "gmnmcmrqt",
+  "repo": "page-972af96162c6144e8d195d35",
+  "title": "轻云(Qingyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "972af96162c6144e8d195d35",
+      "a": "轻云(Qingyun)",
+      "b": "",
+      "entity": "轻云(Qingyun)",
+      "brand": "轻云(Qingyun)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7766b3a233d2e8a0fc34088e2f76ab3e4806332fe87b96ca12e37e9d5044bd05",
+      "content": {
+        "keyword1": "轻云(Qingyun)",
+        "keyword2": "",
+        "primary_entity": "轻云(Qingyun)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "轻云 Qingyun 为你提供稳定高速的网络加速体验，覆盖流媒体解锁、游戏加速与团队协作场景，价格清晰透明，服务贴心周到。",
+          "AI_DESCRIPTION": "轻云 Qingyun 为你提供稳定高速的网络加速体验，覆盖流媒体解锁、游戏加速与团队协作场景，价格清晰透明，服务贴心周到。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #ffffff;--orange: #ff5500;--ink: #1a1a1a;--line: #000000;--soft: #f4f4f4}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, \"Helvetica Neue\", \"PingFang SC\", sans-serif;background: var(--bg);color: var(--ink);line-height: 1.6}\n.layout {display: flex;min-height: 100vh}\nnav.side {width: 220px;border-right: 3px solid var(--line);padding: 24px 0;position: sticky;top: 0;height: 100vh;flex-shrink: 0;display: flex;flex-direction: column}\n.brand-mark {font-weight: 900;font-size: 1.3rem;padding: 0 24px 24px;border-bottom: 2px solid var(--line);margin-bottom: 16px}\n.brand-mark span {color: var(--orange)}\nnav.side ul {list-style: none}\nnav.side a {display: block;padding: 10px 24px;text-decoration: none;color: var(--ink);font-weight: 500;border-left: 4px solid transparent}\nnav.side a:hover {border-left-color: var(--orange);background: var(--soft)}\nmain {flex: 1;padding: 0;max-width: 1100px}\nsection {padding: 48px 40px;border-bottom: 2px solid var(--line)}\nh1 {font-size: 2.2rem;font-weight: 900;margin-bottom: 12px}\nh1 span {color: var(--orange)}\nh2 {font-size: 1.6rem;font-weight: 800;margin-bottom: 20px;border-bottom: 3px solid var(--ink);display: inline-block;padding-bottom: 4px}\n.hero-block {display: grid;grid-template-columns: repeat(4, 1fr);gap: 0;border: 3px solid var(--line);margin-top: 24px}\n.stat {border-right: 2px solid var(--line);padding: 24px}\n.stat:last-child {border-right: none}\n.stat .num {font-size: 2rem;font-weight: 900;color: var(--orange)}\n.stat .label {font-size: 0.85rem;margin-top: 4px}\n.hero-intro {margin-top: 24px;font-size: 1.05rem;max-width: 720px}\n.plan-table {width: 100%;border-collapse: collapse;border: 3px solid var(--line)}\n.plan-table th, .plan-table td {border: 2px solid var(--line);padding: 14px 16px;text-align: left;font-size: 0.95rem}\n.plan-table th {background: var(--ink);color: #fff}\n.plan-table .featured-col {background: #fff5f0}\n.plan-table .tag {display: inline-block;background: var(--orange);color: #fff;padding: 2px 8px;font-size: 0.75rem;font-weight: 700}\n.usage-step {border: 3px solid var(--line);padding: 20px;margin-bottom: 16px;display: flex;gap: 20px;align-items: flex-start}\n.step-num {font-size: 2.5rem;font-weight: 900;color: var(--orange);line-height: 1;flex-shrink: 0}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 24px}\n.faq-item {border: 3px solid var(--line);padding: 18px}\n.faq-item h3 {font-size: 1rem;margin-bottom: 8px}\n.faq-item p {font-size: 0.92rem;color: #333}\n.clients-list {display: grid;grid-template-columns: repeat(2, 1fr);gap: 16px}\n.client-card {border: 3px solid var(--line);padding: 20px}\n.client-card h3 {font-size: 1.1rem;margin-bottom: 8px}\nfooter {padding: 32px 40px;background: var(--ink);color: #fff}\nfooter a {color: var(--orange);text-decoration: none}\n@media (max-width: 768px) {\n  .layout {flex-direction: column}\n  nav.side {width: 100%;height: auto;position: relative;border-right: none;border-bottom: 3px solid var(--line)}\n  .hero-block {grid-template-columns: repeat(2, 1fr)}\n  .faq-grid, .clients-list {grid-template-columns: 1fr}\n  .plan-table {font-size: 0.8rem}\n  .stat .num {font-size: 1.4rem}\n  section {padding: 32px 20px}\n}\n</style><div class=\"layout\">\n<nav class=\"side\">\n<div class=\"brand-mark\">轻云<span>.</span></div>\n<ul>\n<li><a href=\"#home\">首页概览</a></li>\n<li><a href=\"#plans\">套餐方案</a></li>\n<li><a href=\"#usage\">使用指南</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n<main>\n<section id=\"home\">\n<h1>轻云(Qingyun) · 轻云 <span>Qingyun</span>，让网络访问更轻盈</h1>\n<p class=\"hero-intro\">你好呀，轻云是一个主打简洁与稳定的网络加速服务。我们不堆砌复杂术语，只希望你在看剧、打游戏或者远程办公时，能感受到顺畅无阻的体验。下面这些数字，是我们日常运营中比较关键的数据。</p>\n<div class=\"hero-block\">\n<div class=\"stat\"><div class=\"num\">99.2%</div><div class=\"label\">近 30 天平均可用率</div></div>\n<div class=\"stat\"><div class=\"num\">80ms</div><div class=\"label\">主流区域平均延迟</div></div>\n<div class=\"stat\"><div class=\"num\">3 档</div><div class=\"label\">套餐选择，按需挑选</div></div>\n<div class=\"stat\"><div class=\"num\">24h</div><div class=\"label\">人工客服响应窗口</div></div>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐方案</h2>\n<p>三个套餐覆盖了从个人日常到团队协作的常见需求，年付会更划算一些，你可以根据自己的使用强度来选择。</p>\n<table class=\"plan-table\">\n<thead>\n<tr>\n<th>对比项</th>\n<th>基础版</th>\n<th class=\"featured-col\">旗舰版 <span class=\"tag\">推荐</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月费价格</td>\n<td>¥15/月</td>\n<td class=\"featured-col\">¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>按年付价格</td>\n<td>¥150/年</td>\n<td class=\"featured-col\">¥350/年</td>\n<td>¥850/年</td>\n</tr>\n<tr>\n<td>每月流量</td>\n<td>100GB</td>\n<td class=\"featured-col\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td class=\"featured-col\">5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>流媒体解锁</td>\n<td>基础区域</td>\n<td class=\"featured-col\">全节点原生解锁</td>\n<td>全节点原生解锁</td>\n</tr>\n<tr>\n<td>线路类型</td>\n<td>普通节点池</td>\n<td class=\"featured-col\">IPLC 专线游戏优化</td>\n<td>VIP 高带宽节点</td>\n</tr>\n<tr>\n<td>客服支持</td>\n<td>普通工单</td>\n<td class=\"featured-col\">7×24 优先工单</td>\n<td>专属客户经理</td>\n</tr>\n<tr>\n<td>企业定制</td>\n<td>—</td>\n<td class=\"featured-col\">—</td>\n<td>支持定制路由</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section id=\"usage\">\n<h2>使用指南</h2>\n<p>从注册到上手，整个过程大约五分钟。跟着下面的步骤来就行，遇到卡壳的地方随时找客服聊聊。</p>\n<div class=\"usage-step\">\n<div class=\"step-num\">1</div>\n<div>\n<h3>选择适合的套餐</h3>\n<p>先看看自己平时主要用来做什么。只是偶尔看看视频，基础版就够用；如果家里几个人同时看剧打游戏，旗舰版会更稳；如果是小团队一起用，团队版的流量和设备数都更宽裕。</p>\n</div>\n</div>\n<div class=\"usage-step\">\n<div class=\"step-num\">2</div>\n<div>\n<h3>下载对应平台的客户端</h3>\n<p>完成订阅后，在用户中心找到对应你设备的客户端下载链接。我们支持主流的桌面和移动平台，下载安装后用订阅链接导入即可。</p>\n</div>\n</div>\n<div class=\"usage-step\">\n<div class=\"step-num\">3</div>\n<div>\n<h3>选择节点并连接</h3>\n<p>打开客户端后，节点列表里会显示当前延迟。日常使用建议选延迟较低的节点；看流媒体时可以切换到对应区域的解锁节点；打游戏时优先选专线节点。</p>\n</div>\n</div>\n<div class=\"usage-step\">\n<div class=\"step-num\">4</div>\n<div>\n<h3>遇到问题联系客服</h3>\n<p>如果连接不上或者速度不理想，别着急。先在用户中心提交工单描述一下你的网络环境，客服会尽快帮你排查。旗舰版和团队版享受优先响应。</p>\n</div>\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端信息</h2>\n<p>轻云兼容主流的代理协议，你可以使用我们推荐的客户端，也可以用自己习惯的第三方工具导入订阅。目前没有独立的官方应用程序，以下是常用兼容方案。</p>\n<div class=\"clients-list\">\n<div class=\"client-card\">\n<h3>Windows / macOS</h3>\n<p>推荐使用 Clash Verge 或 v2rayN 导入订阅链接，支持系统代理与 TUN 模式，适合桌面端日常使用。</p>\n</div>\n<div class=\"client-card\">\n<h3>Android</h3>\n<p>推荐使用 Clash Meta for Android 或 v2rayNG，从各自官方渠道获取安装包后，导入订阅即可使用。</p>\n</div>\n<div class=\"client-card\">\n<h3>iOS / iPadOS</h3>\n<p>App Store 中支持 Shadowrocket 或 Stash 等客户端，导入订阅链接后按需选择节点。</p>\n</div>\n<div class=\"client-card\">\n<h3>路由器</h3>\n<p>支持在 OpenWrt 或梅林固件上通过插件导入订阅，适合家庭全屋覆盖场景，需要有一定的网络配置基础。</p>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<p>整理了一些大家比较常问的问题，如果这里没有覆盖到你的疑问，可以直接联系客服。</p>\n<div class=\"faq-grid\">\n<article class=\"faq-item\">\n<h3>流量用完了会怎样？</h3>\n<p>当月流量用完后，连接会自动暂停，直到下个计费周期刷新。如果经常不够用，可以考虑升级到更高档位，或者购买额外的流量加油包。</p>\n</article>\n<article class=\"faq-item\">\n<h3>可以试用吗？</h3>\n<p>目前没有提供免费试用，但所有套餐都支持按月订阅。如果你不确定是否合适，可以先开一个月试试体验，觉得满意再转年付。</p>\n</article>\n<article class=\"faq-item\">\n<h3>支持哪些支付方式？</h3>\n<p>支持支付宝、微信支付以及部分加密货币。具体可用方式以下单页面显示为准，企业用户如需对公转账可以联系客服单独处理。</p>\n</article>\n<article class=\"faq-item\">\n<h3>年付可以退款吗？</h3>\n<p>年付套餐在开通后 7 天内、且未使用超过 10GB 流量的情况下支持无条件退款。超出此范围后一般不再受理退款，建议先月付体验。</p>\n</article>\n<article class=\"faq-item\">\n<h3>看 Netflix 会被识别吗？</h3>\n<p>旗舰版和团队版提供原生 IP 节点，针对主流流媒体做了优化，通常不会被识别为代理网络。基础版解锁能力有限，建议看剧需求强的用户选旗舰版。</p>\n</article>\n<article class=\"faq-item\">\n<h3>多人共享账号会封号吗？</h3>\n<p>不会封号，但每个套餐有同时在线设备数限制。超出限制时，最早的设备会被自动挤下线。团队版支持 20 台设备同时在线，适合工作室或小公司。</p>\n</article>\n</div>\n</section>\n</main>\n</div>\n<footer>\n<p>轻云 Qingyun · 让网络访问更轻盈 · 如需帮助请通过用户中心提交工单</p>\n</footer>",
+          "hash": "e974e002b98d21a6269268194b52aa278da3ecc087e3919d05163b608dfaab0d",
+          "seo": {
+            "title": "轻云 Qingyun - 让你的网络访问更轻盈",
+            "keywords": "轻云,Qingyun,网络加速,专线服务,流媒体解锁",
+            "description": "轻云 Qingyun 为你提供稳定高速的网络加速体验，覆盖流媒体解锁、游戏加速与团队协作场景，价格清晰透明，服务贴心周到。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "9115",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jszfsc.cn",
+    "host": "p-5df7fa21db.jszfsc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cdeb5518065a22119f5472c0f5c14f741af94c8bcdd7a2973bc8de06e7ece16f",
+    "sitemap.xml": "73703f7626af3d53ec46ddd7028696364516b1232c2a9a626f8e91e4dde5a2e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "093cb6aecce1e96324a44cd12562051cb0047aad98a88a7e69b4b1630a461944",
+    "robots.txt": "cdbb64ed0872b38a9ffa858e6fc214b5134ffff16e5a9ee020c7841c46f3ff03",
+    "c79cddbdf96a8db73b9de57c75e14263.txt": "b0806b92b815a5b98eace9fe829b62ed75a8bf1a7185fe95ed8807e89030aee1"
+  },
+  "revision": "f690cc2c0536a8f97e733189a28c48c6affc8bd5e929bdda5b24d7b966449618"
+}
